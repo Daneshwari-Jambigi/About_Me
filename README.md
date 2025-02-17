@@ -24,7 +24,7 @@ Meet me, Daneshwari Jambigi, MBA graduate and former banker transitioning into d
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-
+I dedicated my time to upskilling in Power BI, enhancing my data visualization and analytical capabilities.
 ```
 <!--END_SECTION:waka-->
 
